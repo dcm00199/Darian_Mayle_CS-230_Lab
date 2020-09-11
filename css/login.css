@@ -1,0 +1,51 @@
+body, html{
+    background-attachment: fixed;
+    background-image: url(../Images/sky-34536_1280.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg {
+    height: 100%;
+    width: 100%;
+}
+
+.loginP {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+
+label {
+    width: 100%;
+    padding-left: 50px;
+    margin-top: 10px;
+}
+
+.innerB {
+    background-color: rgb(52, 79, 100);
+    border-style: solid;
+    width: 200px;
+    display: inline-block;
+    margin-top: 10%;
+}
+
+.words {
+    float: left;
+}
+
+.imageP {
+    width: 80px;
+    height: 80px;
+    padding: 5px;
+}
+
+#wheelImage{
+    width: 20px;
+    height: 320px;
+}
+
+#carouselExampleIndicators{
+    padding: 50px 200px;
+    text-align: center;
+}
